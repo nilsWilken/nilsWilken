@@ -5,7 +5,6 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Mannheim
-* ✉️  You can contact me at [nils.wilken@t-online.de](mailto:nils.wilken@t-online.de)
 
 ### Skills
 
